@@ -1,0 +1,9 @@
+.container-fluid{
+    background-color: rgb(63, 43, 175);
+    height: 100px;
+    padding-top: 20px;
+}
+a{
+    font-size: 13px;
+    color: rgb(233, 212, 212);
+}

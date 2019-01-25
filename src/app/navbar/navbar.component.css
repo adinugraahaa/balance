@@ -1,0 +1,9 @@
+.changetheme button{
+    color: #000;
+}
+.changetheme1{
+    display: none;
+}
+.changetheme1 button{
+    color: #fff;
+}

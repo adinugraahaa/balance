@@ -25,14 +25,15 @@ overflow-x: hidden;
 .nav .nav-link{
   color: #fff;
   background-color: rgb(93, 78, 177);
-  border-bottom: 1px solid #12161C;
+  border-bottom: 1px solid #fff;
 }
 .nav .nav-link.active,
-  .nav .show > .nav-link {
-    color: #fff;
-    background-color: mediumslateblue;
-    border-bottom: 1px solid #fff;
+.nav .show > .nav-link {
+  color: #fff;
+  background-color: mediumslateblue;
+  border-bottom: 1px solid #12161C;
   }
+
 
 .tab-content{
   min-height: 700px;;

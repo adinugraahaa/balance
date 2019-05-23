@@ -1,13 +1,15 @@
 .changetheme button{
-    color: #000;
+    color: #fff;
 }
 .changetheme1{
     display: none;
 }
 .changetheme1 button{
-    color: #fff;
+    color: #000;
 }
-
+.navbar{
+    background-color: #1c1f32 !important;
+}
 /* .navbar-nav>li.nav-item>.dropdown-menu>a:hover{
     background-color: mediumslateblue;
 } */

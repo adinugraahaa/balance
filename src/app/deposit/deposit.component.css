@@ -28,6 +28,19 @@ p:nth-child(2){
     height: 8px;
 }
 
-a{
+/* a{
     color: green;
+} */
+a{
+    color: #f69022;
+}
+
+#con1{
+    background-color: #1c1f32;
+    color: #afb9ca;
+    padding-top: 10px;
+}
+table{
+    background-color: #272b41;
+color: #afb9ca;
 }

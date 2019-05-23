@@ -22,18 +22,30 @@ overflow-x: hidden;
   padding-left: 0px;
 }
 
-.nav .nav-link{
+/* .nav .nav-link{
   color: #fff;
   background-color: rgb(93, 78, 177);
-  border-bottom: 1px solid #12161C;
+  border-bottom: 1px solid #fff;
 }
 .nav .nav-link.active,
-  .nav .show > .nav-link {
-    color: #fff;
-    background-color: mediumslateblue;
-    border-bottom: 1px solid #fff;
+.nav .show > .nav-link {
+  color: #fff;
+  background-color: mediumslateblue;
+  border-bottom: 1px solid #12161C;
+  } */
+
+  .nav .nav-link{
+    color: white;
+    background-color: #12161C;
+    border-bottom: 1px solid #12161C;
   }
+  .nav .nav-link.active,
+    .nav .show > .nav-link {
+      color: #ee2d28;
+      background-color: #12161C;
+      border-bottom: 1px solid #ee2d28;
+    }
 
 .tab-content{
-  min-height: 700px;;
+  min-height: 700px;
 }

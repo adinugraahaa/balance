@@ -31,3 +31,10 @@ p:nth-child(2){
 a{
     color: green;
 }
+
+.page-item .page-link {
+    /* color: #ee2d28!important; */
+    /* background-color: #12161C !important; */
+    /* border-color: transparent; */
+    color: initial;
+}

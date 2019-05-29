@@ -44,3 +44,9 @@ table{
     background-color: #272b41;
 color: #afb9ca;
 }
+
+.page-item .page-link {
+    color: #ee2d28!important;
+    background-color: #12161C !important;
+    border-color: transparent;
+}

@@ -38,9 +38,13 @@ td{
 }
 
 td:nth-child(3){
-    width: 155px;
+    width: 200px;
 }
 
+.btn-buy{
+    background-color: orange;
+    color: white;
+}
 .page-item .page-link {
     /* color: #ee2d28!important; */
     /* background-color: #12161C !important; */

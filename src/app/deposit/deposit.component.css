@@ -32,6 +32,15 @@ a{
     color: green;
 }
 
+td{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+td:nth-child(3){
+    width: 155px;
+}
+
 .page-item .page-link {
     /* color: #ee2d28!important; */
     /* background-color: #12161C !important; */

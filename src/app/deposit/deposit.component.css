@@ -28,6 +28,10 @@ p:nth-child(2){
     height: 8px;
 }
 
+#Check1{
+    margin-top: 6.5px;
+}
+
 /* a{
     color: green;
 } */
@@ -45,6 +49,18 @@ table{
 color: #afb9ca;
 }
 
+td{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+td:nth-child(3){
+    width: 200px;
+}
+
+.btn-buy{
+    background-color: orange;
+}
 .page-item .page-link {
     color: #ee2d28!important;
     background-color: #12161C !important;
